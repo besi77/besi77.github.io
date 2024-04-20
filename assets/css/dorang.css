@@ -11840,7 +11840,8 @@ body.dark-theme {
 .contact-banner {
   background: url(../assets/bg-pat.png) #546671 repeat;
   color: #fff;
-  padding: 6em;
+  padding-top: 6em;
+  padding-bottom: 6em;
   display: table;
   content: " ";
   clear: both;
